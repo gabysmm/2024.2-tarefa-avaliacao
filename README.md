@@ -23,6 +23,30 @@ Considere as funções e objetivos principais de um sistema operacional conforme
 
 **Copilot informa**: Essa questão incentiva os alunos a explorarem os conceitos fundamentais e a aplicarem o conhecimento teórico em situações práticas. Se precisar de mais alguma coisa, estou aqui para ajudar!
 
+# Resposta da Questão
+
+Um sistema operacional gerencia os recursos de hardware e software de um computador, agindo como um "cérebro" e sendo um intermediário entre o usuário e o hardware.
+
+**1 - Gerenciamento de Processos**
+O sistema operaciona controla os programas em execução (estes, chamados de processos) por meio de algoritmos de escalonamento. Ele vai decidir qual programa será executado e por quanto tempo, para que todos os apps funcionem bem mesmo que utilizados ao mesmo tempo. 
+
+Exemplo: Quando você está ouvindo música, navegando na internet e baixando um arquivo, o SO alterna rapidamente entre essas tarefas, fazendo parecer que tudo acontece ao mesmo tempo.
+
+**2 - Gerenciamento de memória**
+O sistema operacional organiza e aloca tempo do processador para os processos que estão em execução por meio de algoritmos de escalonamento também, e os libera quando o processo termina. Ele também utiliza memória virtual para expandir a memória disponível, transferindo dados menos utilizados para o disco rígido.
+
+Exemplo: Se você abrir muitos programas e a memória RAM acabar, o SO move informações menos usadas para o disco rígido, para que o computador não trave.
+
+**3 - Gerenciamento de dispositivos de entrada e saída**
+O Sistema operacionais fornece uma interface entre o hardware (teclado, mouse, impressora, etc.) e os programas. Ele controla o acesso a esses dispositivos, garantindo que não ocorram conflitos.
+
+Exemplo: Quando você imprime um documento enquanto usa o mouse para editar um texto, o SO organiza as tarefas para que cada dispositivo funcione sem atrapalhar o outro.
+
+**4 - Gerenciamento de Arquivos**
+O sistema operacional  organiza os arquivos no sistema de armazenamento, fornecendo uma hierarquia (pastas e subpastas). Ele gerencia as operações de leitura, gravação, exclusão e acesso aos arquivos, garantindo que as permissões sejam respeitadas.
+
+Exemplo:  Quando você salva um documento, o SO escolhe o lugar ideal no disco para armazená-lo, ajudando o computador a acessar os dados mais rápido no futuro.
+
 # Questão 2. Estrutura de sistemas operacionais
 
 ## Texto informativo
